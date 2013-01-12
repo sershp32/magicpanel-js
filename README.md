@@ -6,9 +6,9 @@ jQuery plugin to quickly scroll up page using left side panel.
 
 Quickly install looks like this:
 
-`<script type="text/javascript" src="jquery.js"></script>
-<script type="text/javascript" src="jquery.magicpanel.js"></script>
-<link type="text/css" rel="stylesheet" media="all" href="magicpanel.css" />`
+`<script type="text/javascript" src="jquery.js"></script>`
+`<script type="text/javascript" src="jquery.magicpanel.js"></script>`
+`<link type="text/css" rel="stylesheet" media="all" href="magicpanel.css" />`
 
 ## How to use
 
@@ -19,4 +19,5 @@ All that you need it is just run magic panel and pass main container width:
 ## Contacts
 
 Email: sergeshpak@gmail.com
+
 [@sergz](http://twitter.com/sergz)
