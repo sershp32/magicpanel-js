@@ -1,0 +1,9 @@
+
+Magic Panel 1.1, 2013-01-12
+---------------------------
+- Public realease
+- Fixed event handlers
+
+Magic Panel 1.0, xxxx-xx-xx
+---------------------------
+- Private beta realese

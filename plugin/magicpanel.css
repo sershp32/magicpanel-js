@@ -1,0 +1,39 @@
+.b-magicpanel {
+	display: none;
+	position: fixed;
+	width: 10%;
+	top: 0;
+	left: 0;
+	height: 100%;
+	z-index: 9000;
+	cursor: pointer;
+}
+
+	.b-magicpanel__side {
+		position: fixed;
+		width: 100px;
+		height: 100%;
+		top: 0;
+		left: 0;
+		background: black;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+		filter: alpha(opacity=0);
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		opacity: 0;
+	}
+
+	.b-magicpanel__arrow {
+		position: fixed;
+		width: 100px;
+		height: 100%;
+		top: 0;
+		left: 0;
+		background: black;
+		background: url(arrow.png) center center no-repeat;
+		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+		filter: alpha(opacity=0);
+		-moz-opacity: 0;
+		-khtml-opacity: 0;
+		opacity: 0;
+	}
